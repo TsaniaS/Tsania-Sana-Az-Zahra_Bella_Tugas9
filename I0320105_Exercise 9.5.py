@@ -12,9 +12,7 @@ A = [
     ]
 
 # mengakses elemen 10
-A[0][0][0]
-10
+print(A[0][0][0])
 
 # mengakses elemen 50
-A[0][1][1]
-50
+print(A[0][1][1])
